@@ -1,0 +1,4 @@
+It is a facebook messenger bot that can solve mathematical equations. (Can solve only some of them not all)
+It's official page is https://www.facebook.com/Math-ka-bot-186937878757673/ (Still under development)
+It is integrated with Dialogflow API
+
